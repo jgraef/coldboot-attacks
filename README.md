@@ -2,6 +2,8 @@
 
 This repository contains materials about our seminar topic *Cold Boot Attacks*.
 
+Information about this seminar can be found here: <https://trust.cispa.saarland/teaching/SS17/hacking.html>
+
 ## Presentation
 
 Our presentation slides are provided as `coldboot.pdf`.
